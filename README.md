@@ -9,6 +9,10 @@
 
 # Telas
 
+## Página Inicial
+![Image](./pagina_inicial.jpg)
+Resumo das informações para fornecer ao usuário um ponto de entrada lógico ao iniciar o uso do aplicativo.
+
 ## Login
 ![Image](./pagina_login.jpg)
 Tela que autenticará o usuário e senha inseridos pelo usuário (aluno, professor…) para permitir acesso à plataforma.
