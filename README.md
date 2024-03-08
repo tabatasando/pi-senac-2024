@@ -47,3 +47,6 @@ Na tela final da área de matrícula aparecerá uma mensagem informando “Sua m
 Na tela “Pedido ao fornecedor” o usuário expressará suas necessidades de compra, aqui ele quantificará seu pedido e escolherá para qual fornecedor enviar. Esta tela possui as abas: assunto, email do fornecedor e mensagem, para que o usuário relate o que necessita da melhor maneira possível. Após o preenchimento dos dados o usuário aperta o botão enviar e o sistema abrirá uma nova tela “Lista de pedidos”.
 
 Na tela “Lista de pedidos” consta uma planilha contendo os nomes dos fornecedores, assunto da compra e cotação, para que o usuário possa escolher o fornecedor que melhor lhe atende.
+
+# Diagrama de classes
+![Image](./diagrama_classes.jpg)
